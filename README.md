@@ -4,8 +4,6 @@
 
 💻 - I'm currently learning JavaScript
 
-🌐 - I like to learn different languages
-
 🎤 - Languages that I speak: Portuguese & English
 
 <div>
